@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pangyusheng/Desktop/PROG/C++/TSP_AC/main.cpp
+iostream
+-
+fstream
+-
+iostream
+-
+string
+-
+sstream
+-
+algorithm
+-
+set
+-
+list
+-
+cmath
+-
+ctime
+-
+cstdlib
+-
+vector
+-
+
